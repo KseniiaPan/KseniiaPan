@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Kseniia, a frontend developer from Saint Petersburg who enjoys building clean, functional, and user-friendly interfaces.<br><br>💻 Main stack: HTML, CSS, JavaScript, TypeScript & React<br>🌱 Currently learning: Vue to broaden my skillset and deepen my understanding of modern frontend ecosystems<br>🎨 Focus: Thoughtful UX, readable code, and continuous learning<br><br>🌍 Hobbies: Traveling, Food, Dancing, Watercolour Painting & Sketching
+Hi! I’m Kseniia, a frontend developer from Saint Petersburg who enjoys building clean, functional, and user-friendly interfaces.<br><br>💻 Main stack: HTML, CSS, JavaScript, TypeScript & React<br>🌱 Currently learning: Vue to broaden my skillset and deepen my understanding of modern frontend ecosystems<br>🎨 Focus: Thoughtful UX, readable code, and continuous learning<br><br>🌍 Hobbies: Traveling, Dancing, Watercolour Painting, Sketching, 3D Modeling & Animation
 
 
 # 💻 Tech Stack:
